@@ -2,3 +2,4 @@
 
 ## 1주차 과제 (2020.05.25)
   - [인공지능 사례 분석](https://github.com/Choi-SeoYun/Gwangju-AI-Academy/blob/master/HW1.ipynb, "HW1")
+  
